@@ -30,7 +30,7 @@ The following **optional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 Video Walkthrough 1:
-[https://www.youtube.com/watch?v=GA92eKlYio4](https://i.imgur.com/c7VIYBu.gif).
+[https://i.imgur.com/c7VIYBu.gif](https://i.imgur.com/c7VIYBu.gif).
 
 Video Walkthrough 2:
 [https://i.imgur.com/zK7ZDMp.gif](https://i.imgur.com/zK7ZDMp.gif)
